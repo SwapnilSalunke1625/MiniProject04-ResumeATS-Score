@@ -39,3 +39,60 @@ Did you know that **75% of resumes never reach human eyes**? They're rejected by
    cd Advanced-ATS-Resume-Checker
 Install the dependencies
 pip install -r requirements.txt
+
+Install the dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Set up your Google API key
+
+Create a .env file in the root directory.
+
+Add your key like this:
+
+ini
+Copy
+Edit
+GOOGLE_API_KEY=your_api_key_here
+Run the app
+
+bash
+Copy
+Edit
+streamlit run app.py
+🤝 Want to Contribute?
+Awesome! Follow these steps:
+
+Fork the repository
+
+Create a new branch
+
+bash
+Copy
+Edit
+git checkout -b my-new-feature
+Commit your changes
+
+bash
+Copy
+Edit
+git commit -am 'Add some feature'
+Push to GitHub
+
+bash
+Copy
+Edit
+git push origin my-new-feature
+Open a Pull Request
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+❓ Questions?
+Reach out to me via GitHub issues or email:
+
+📧 swapnilsalunke1625@gmail.com
+
+
